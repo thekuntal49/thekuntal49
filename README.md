@@ -7,7 +7,7 @@
 
 - 💻 Check out my platforms:
   - [Social Clubs](https://socialclubs.fun) – A feature-rich social app with real-time chat built using Node.js, Socket.io & MongoDB  
-  - [CodeSena](https://codesena.site) – A full-stack developer platform featuring coding articles, quizzes & projects built with MERN stack
+  - [CodeSena](https://codesena.site) – A full-stack developer platform featuring coding articles, quizzes & projects, built using **Next.js, Express, and MongoDB**
 
 - ⚡ Interested in my work?  
   **Let’s connect — I’m open to collaboration, freelance work, and full-time backend roles!**
