@@ -5,8 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekuntal49&label=Profile%20views&color=0e75b6&style=flat" alt="thekuntal49" /> </p>
 
-- 💻 Connect with me on my platform [Social Clubs](https://socialclubs.fun)
-- ⚡ **Interested in my work? Feel free to reach out to me!**
+- 💻 Check out my platforms:
+  - [Social Clubs](https://socialclubs.fun) – A feature-rich social app with real-time chat built using Node.js, Socket.io & MongoDB  
+  - [CodeSena](https://codesena.site) – A full-stack developer platform featuring coding articles, quizzes & projects built with MERN stack
+
+- ⚡ Interested in my work?  
+  **Let’s connect — I’m open to collaboration, freelance work, and full-time backend roles!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
