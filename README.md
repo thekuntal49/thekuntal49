@@ -5,14 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekuntal49&label=Profile%20views&color=0e75b6&style=flat" alt="thekuntal49" /> </p>
 
-- 💻 Check out my platforms:
-  - [Social Clubs](https://socialclubs.fun) – A feature-rich social app with real-time chat built using Node.js, Socket.io & MongoDB  
-  - [CodeSena](https://codesena.site) – A full-stack developer platform featuring coding articles, quizzes & projects, built using **Next.js, Express, and MongoDB**
+### 💻 Explore My Platforms
 
-- ⚡ Interested in my work?  
-  **Let’s connect — I’m open to collaboration, freelance work, and full-time backend roles!**
+- **[CodeSena](https://codesena.site)** — A comprehensive full-stack developer hub offering coding articles, quizzes, and projects, built with **Next.js, Express, and MongoDB**.
+- **[Social Clubs](https://socialclubs.fun)** — A dynamic social app with real-time chat, powered by **Node.js, Socket.io, and MongoDB**.  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### ⚡ Interested in My Work?  
+I’m always excited to collaborate, freelance, or join as a backend developer.  
+**Let’s connect and build something great together!**
+
+
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/thekuntal49" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="kuntal" height="35" width="35" />
@@ -25,7 +30,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
