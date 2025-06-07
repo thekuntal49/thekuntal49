@@ -10,12 +10,11 @@
 - **[CodeSena](https://codesena.site)** — A comprehensive full-stack developer hub offering coding articles, quizzes, and projects, built with **Next.js, Express, and MongoDB**.
 - **[Social Clubs](https://socialclubs.fun)** — A dynamic social app with real-time chat, powered by **Node.js, Socket.io, and MongoDB**.  
 
----
-
 ### ⚡ Interested in My Work?  
-I’m always excited to collaborate, freelance, or join as a backend developer.  
+- I’m always excited to collaborate, freelance, or join as a backend developer.  
 **Let’s connect and build something great together!**
 
+---
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
